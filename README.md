@@ -5,3 +5,5 @@ Contents:
 
 1) Project made after Chapter 1: Machine Learning for Trading
 <br>"Getting Stock Data from Yahoo Finance via Pandas_Datareader & Plotting with Plotly"
+<br> This project goes throug the following steps:
+  a) 
