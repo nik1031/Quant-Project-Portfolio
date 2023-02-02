@@ -5,7 +5,7 @@ Contents:
 
 1) Project made after Chapter 1: Machine Learning for Trading
 <br>"Getting Stock Data from Yahoo Finance via Pandas_Datareader & Plotting with Plotly"
-<br> This project goes throug the following steps:
+<br> This project goes through the following steps:
   <br> a) Import the required libraries
   <br> b) Assign data ranges, adjusts for UTC timezone
   <br> c) Select 4 Stocks (US banks) and gets data about stock price from yahoo finance as a dataframe
