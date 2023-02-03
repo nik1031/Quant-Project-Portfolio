@@ -12,3 +12,9 @@ Contents:
   <br> d) Creates visual output & quick insight
   <br> e) Plots time series close prices using matplotlib and plotly (install included) for 'hover over data' feature
   <br> f) Plots a histrogram for each
+1.1) Another project to practice gradient descent & getting financial data from Yahoo finance
+<br> "Gradient Descent of Unemployment rate & Volatility Index"
+<br> This project goes through the following steps:
+<br> a) Imports libraries
+<br> b) Requests data from Yahoo Finance & CSV file about volatility index & unemployment rate
+<br> c) Converts VIX to monthly averages, converts both variables into 2 arrays
