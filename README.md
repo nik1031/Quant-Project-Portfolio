@@ -19,4 +19,5 @@ Contents:
 <br> b) Requests data from Yahoo Finance & CSV file about volatility index & unemployment rate
 <br> c) Converts VIX to monthly averages, converts both variables into 2 arrays
 <br> d) Plots a scatterplot to visually choose the right regression type
+<br> e) Creates manual linear regression for predicting VIX using unemployment rate input
 <br> TBC
