@@ -20,4 +20,5 @@ Contents:
 <br> c) Converts VIX to monthly averages, converts both variables into 2 arrays
 <br> d) Plots a scatterplot to visually choose the right regression type
 <br> e) Creates manual linear regression for predicting VIX using unemployment rate input
+<br> f) Plots a line of best fit
 <br> TBC
